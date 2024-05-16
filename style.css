@@ -567,7 +567,18 @@ height: auto;
     list-style: none;
     padding: 0.5rem 0;
     font-size: 0.9rem;
+    
 }
+
+li{
+cursor: pointer;
+}
+
+li:hover{
+    color: hsl(224, 88%, 44%);
+
+}
+
 
 .left_list_container{
     width: 50%;
@@ -613,7 +624,15 @@ column-gap: 1rem;
     height: 100%;
     text-align: center;
     font-size:0.9rem ;
+    cursor: pointer;
 }
+
+.left_right_footer_logo_container a .icons:hover{
+    color: hsl(224, 88%, 44%);
+
+}
+
+
 
 
 @media screen and (max-width:1200px){
