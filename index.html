@@ -45,13 +45,13 @@
       </div>
 
 
-      <form class="form">
+      <form class="form" id="first_form">
         <div class="hero_input_and_button_container">
           <div class="input_container">
             <input type="email" placeholder="Enter your email..." id="email_input" onkeyup="validateEmailInputField()"> 
             <p class="error_alert" id="error_alert"></p>
           </div>
-          <button id="button" type="button"> Get Started</button>
+          <button id="button" type="submit"> Get Started</button>
         </div>
       </form>
       
@@ -125,15 +125,15 @@
       </div>
     </div>
 
-    <form class="Second_form">
+    <form class="Second_form" id="second_form">
 
       <div class="right_light_blue_container">
 
         <div class="second_input_conatiner">
-          <input id="Second_email_input" type="email" placeholder="email@example.com" onkeyup="validateEmailInputField()">
+          <input id="Second_email_input"  onkeyup="validateEmailInputField()" placeholder="email@example.com">
           <p class="Second_error_alert" id="second error_alert"></p>
         </div>
-        <button type="button" id="second_button">Get Started For Free</button>
+        <button type="submit" id="second_button">Get Started For Free</button>
 
         </div>
         
