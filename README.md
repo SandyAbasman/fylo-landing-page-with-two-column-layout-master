@@ -19,7 +19,7 @@
 
 ### What I learned
 
-I learned more on form validation with javascript.
+I learned more on form validation with Javascript.
 
 ### Useful resources
 
