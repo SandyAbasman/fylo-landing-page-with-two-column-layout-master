@@ -7,7 +7,6 @@
 
 - Live Site URL: [landing page](https://landingpageflyo.vercel.app/)
 
-## My process
 
 ### Built with
 
@@ -16,11 +15,11 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- javascript
+- Javascript
 
 ### What I learned
 
-I learned more on form validation with javascript.
+I learned more on form validation with Javascript.
 
 ### Useful resources
 
